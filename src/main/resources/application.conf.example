@@ -1,0 +1,7 @@
+app {
+  data {
+    paths {
+  	  railyway_reservation_time_table = "/path/to/timetable.csv"
+  	}
+  }
+}
